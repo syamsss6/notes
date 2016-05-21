@@ -1,0 +1,24 @@
+May 18
+..............
+
+PATH : colon separated list of directories
+    To remove PATH:  PATH unset
+
+ when add . to PATH , then shell can ececute files on current directory
+     (shell will looks up the current directory)
+
+Executing a command :
+        a) check whether it is an internal command
+        b) looks up the folder given in PATH
+
+Exit command:
+................
+  when executing exit in shell script,it is executed by the sub shell.
+  when you execute exit command it is exiting from the shub shell
+
+
+source : to execute commands in parent shell
+
+shell : a family of programs
+bash : one of a program in shell
+
