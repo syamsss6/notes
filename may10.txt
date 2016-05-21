@@ -1,0 +1,12 @@
+May 10:
+
+
+ls  : for listing files and folders
+ls -l : for long listing , details including date,time ,size,permissions etc
+mv : for renaming a file
+        mv abc gt
+mkdir : For creating a new directory
+rm : for removing files 
+cp : for copying files
+cd : change directory
+
