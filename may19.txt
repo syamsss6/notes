@@ -1,0 +1,14 @@
+while loop in shell:
+.............................
+while true
+do 
+   echo hello
+done
+
+
+true : exit status 0
+false : exit status 1
+sucessfully compleated commands have exit status 0
+unsucessfullay compleated commands have exit status 1
+
+/dev/null : data storedget vanished
