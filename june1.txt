@@ -1,0 +1,26 @@
+JUne 1
+----------
+
+in purely functional language like haskel all data structures are immutable
+
+set
+------- 
+a = {1,2,3,1,1,}
+a = {} : dict
+set([]) : empty set
+
+
+in
+----
+is a universal membership operator
+return True when the element is present else False
+
+eg:
+ a = {1,2,3,4}
+ 2 in a
+
+set comprehension also possible
+
+
+
+
