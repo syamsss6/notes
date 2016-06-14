@@ -1,0 +1,21 @@
+June 7
+-------------
+in 32 bit architecture integer has 4 bytes
+
+
+
+*) for a program,initially only a fixed amount of memory Once started running,more is needed.program  request for more memory to the os
+
+in c
+------
+dynamically allocate memory using : malloc()
+deallocating the memory using : free()
+
+if no free() is used,memory leak occurs
+
+languages like python,java,perl,lisp have automatic memory management.
+
+local variable- when function starts,memory is allocated.freed when function ends
+global variables -when program starts,memory is allocated,freed when program ends
+
+
