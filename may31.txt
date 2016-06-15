@@ -1,0 +1,36 @@
+May 31
+-----------
+
+List comprehensions:
+
+  [x*x for x in a]  -----> gives the square of numbers
+
+  in list comprehension input and output are list
+
+For repetative coding :
+  1) list comprehension
+  2)for loop
+  3)while loop
+tuple
+------
+ a=[(1,2),(3,4)]
+ t = [u[0]+u[1] for u in a]
+ print t                      -----> 3 7
+
+Dictionary
+-----------------
+dictionary/associated array/map  store structured data
+dictionary is mutable
+no ordering
+
+* ) Tuple is mutable
+
+Possible keys of dict : int,string,tuple
+
+Not possible : list,dict
+
+In a dict the keys should be immutable and value can be anything
+
+
+
+

@@ -1,0 +1,13 @@
+June 2
+--------------
+Time complexity : time taken to compleate the execution of program
+
+*) constant time algoritham have time complexity : O(n)
+
+
+*) list and tuple has O(n) for membership operation
+
+*) set membership has O(1) for membership operation
+
+*) dictionary lookup(using 'in') takes time O(1) 
+

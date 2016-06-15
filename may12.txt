@@ -1,0 +1,37 @@
+iMay 12:
+
+date : shows current date and time
+ > : for redirecting the output
+ 	date > abc : redirect the output of the command 'date' to file abc
+
+	grep
+..................
+      for identify patterns in a text files
+
+wc -l a: count the no of lines in file a
+wc word : count total no of words
+
+grep head words : find the pattern 'head' in file words
+grep '^head' : all words start withs 'head'
+grep 'head$' : all words ending with 'head'
+grep '^h..d$' : all word starting with 'h' and ending with 'd'
+
+
+head words: first few words on file words
+           (head -20 words)
+tail words : last few words on file words
+		(tail -20 head)
+	pipe
+............................
+ output  of one command is fed as the input of anotherone
+ps ax | wc -l
+   : the output of ps ax in given as the input of wc -l
+
+
+
+
+touch : for creating empty file
+
+
+echo a* : print all files start wih a
+echo 'a*' : prints a*

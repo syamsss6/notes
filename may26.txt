@@ -1,0 +1,32 @@
+May 26
+-------------------
+compiler : language transilator
+interpreter : language evaluate
+
+strings in python are immutable(can't be change)
+
+dir(a) : shows all the function that can be used with 'a'
+      help(a.upper) : documentation reguarding the function upper
+a[0]  >> h
+a[4]  >> e
+a[-1] >> o
+a[-5] >> h
+
+a='hello'
+a.upper()  >> HELLO
+a='HELLO'
+a.lower()  >> hello
+
+list
+---------------
+*)general purpose container
+*)list are mutable
+
+range(0,10)  >> prins number 0 to 9
+slicing:
+a='hello'
+a[1:4]  >> ell
+
+a= [10,20,30]
+a.insert(2,100) >> [10 20 100 30]
+

@@ -1,0 +1,16 @@
+May 25
+--------------------
+Dynamically typed language : python
+Statically typed language : c,c++,java
+
+
+REPL : Read Eval Print Loop
+
+EXecution of python program
+--------------------------------
+a)compilation to byte code
+b)byte code interpretation
+
+compilation to byte code : check for syntatical error if ok converts to "byte code"/"virtual machine code"
+
+a = input() : to receive input

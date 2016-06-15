@@ -1,0 +1,24 @@
+May 24
+------------------
+du : to see the disk usage
+
+gcc -v : to give version information
+gcc : GNU c compiler
+
+4 stage c compilation
+-------------------------
+1. Preprocessing
+2. Compiler proper
+3. Assembling
+4. Linking
+
+compilation process is the most complex phase in c compilation
+
+c compiler is written in c language
+
+
+*) mozilla rust : a replacement for c/c++
+
+*) architecture used in mobile phones : ARM
+
+

@@ -1,0 +1,7 @@
+June 9
+------------------
+
+Reference count .stores how many times memory is accessed
+Whenever reference is assignted to new value,the previous ref-count is decremented.Python checks whether it is 0.If yes free the memory that is allocated
+
+when memory is reassigned and ref-count is not 0.it becomes garbage
