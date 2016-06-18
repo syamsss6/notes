@@ -1,0 +1,7 @@
+June 10
+----------
+df : shows info reguarding disk usage
+
+sed : stream editor
+awk: text processing tool
+checksum : to verify integrity of file
