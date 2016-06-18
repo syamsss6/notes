@@ -1,0 +1,24 @@
+June 14
+-----------
+a=[1,2,3]   b=[1,2,3]
+
+*) value identity(==) : 
+	a ==b checks whether contents of a&b are same if so return True else return False  
+
+*) object identity (is):
+	a is b check whether a&b is pointing to the same memory location
+*) id(a) :
+	returns a unique value. if id(a)=id(b) the a&b are pointing to same memory location
+
+*) b=a[:] , the slicing operation creates a shallow copy ,copies contents of a to b
+  
+*) to run a program using ./
+
+  i) include #!/usr/bin/python on the top of the program
+  ii) set executive permission
+  #!/usr/bin/python contains the machine code for python
+*)
+ import sys
+ sys.args : shows all command line arguments including program name
+
+
